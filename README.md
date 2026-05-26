@@ -15,3 +15,6 @@ Bước 3: Viết DAX Cốt lõi. Tính toán các KPI xương sống của dự
 Bước 4: Dựng Dashboard. Báo cáo nên chia thành các trang như: Summary, Details, Cancellation Insight và Revenue Sources
 
 ## Dashboard 
+
+### Summary 
+![Summary](Dashboard/Summary.png)
