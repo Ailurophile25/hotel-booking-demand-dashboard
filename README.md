@@ -18,3 +18,12 @@ Bước 4: Dựng Dashboard. Báo cáo nên chia thành các trang như: Summary
 
 ### Summary 
 ![Summary](Dashboard/Summary.png)
+
+### Details
+![Details](Dashboard/Detais.png)
+
+### Cancellation insight
+![cancellation](Dashboard/Cancellation insight.png)
+
+### Revenue sources
+![Revenue](Dashboard/Revenue sources.png)
